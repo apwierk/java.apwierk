@@ -53,7 +53,7 @@ public class ArrayEx07 {
 			}
 			
 
-			System.out.print("indexdd : ");
+			System.out.print("index : ");
 			int index = scan.nextInt();
 			if(cnt < 10) {
 				if(cnt == front[index]) {

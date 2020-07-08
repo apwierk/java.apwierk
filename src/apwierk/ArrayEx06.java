@@ -13,7 +13,7 @@ public class ArrayEx06 {
 		int [] me  = new int[3];
 		boolean run = true;
 		while(run) {
-			System.out.println("숫자를sss 순서대로 입력하시오.");
+			System.out.println("숫자를 순서대로 입력하시오.");
 			for(int i = 0;i<me.length;i++) {
 				me[i] = scan.nextInt();
 			}
